@@ -1,7 +1,7 @@
 import Head from "next/head";
 
 export default function HeadObject({ children }) {
-  const title = "Hello World";
+  const title = "CovInspect";
   const description = "This is a Next.js boilerplate.";
   const keywords = "put some fun keywords here";
   const author = "Ella";
